@@ -1,0 +1,5 @@
+FindHandle was my first "popular" project which was created in 1996 using Borland Delphi.
+
+FindHandle displays a lot of window-related run-time information to help you debug your program or find out internals about other people's program.
+
+This was a attempt to remake it in 2009 using VC, but did not finish even as an alpha version.
